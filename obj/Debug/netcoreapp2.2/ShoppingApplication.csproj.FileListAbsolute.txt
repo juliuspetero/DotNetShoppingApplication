@@ -1,0 +1,16 @@
+E:\AspNetCoreProjects\ShoppingApplication\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\AspNetCoreProjects\ShoppingApplication\bin\Debug\netcoreapp2.2\appsettings.json
+E:\AspNetCoreProjects\ShoppingApplication\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\AspNetCoreProjects\ShoppingApplication\bin\Debug\netcoreapp2.2\ShoppingApplication.deps.json
+E:\AspNetCoreProjects\ShoppingApplication\bin\Debug\netcoreapp2.2\ShoppingApplication.runtimeconfig.json
+E:\AspNetCoreProjects\ShoppingApplication\bin\Debug\netcoreapp2.2\ShoppingApplication.runtimeconfig.dev.json
+E:\AspNetCoreProjects\ShoppingApplication\bin\Debug\netcoreapp2.2\ShoppingApplication.dll
+E:\AspNetCoreProjects\ShoppingApplication\bin\Debug\netcoreapp2.2\ShoppingApplication.pdb
+E:\AspNetCoreProjects\ShoppingApplication\obj\Debug\netcoreapp2.2\ShoppingApplication.RazorAssemblyInfo.cache
+E:\AspNetCoreProjects\ShoppingApplication\obj\Debug\netcoreapp2.2\ShoppingApplication.RazorAssemblyInfo.cs
+E:\AspNetCoreProjects\ShoppingApplication\obj\Debug\netcoreapp2.2\ShoppingApplication.AssemblyInfoInputs.cache
+E:\AspNetCoreProjects\ShoppingApplication\obj\Debug\netcoreapp2.2\ShoppingApplication.AssemblyInfo.cs
+E:\AspNetCoreProjects\ShoppingApplication\obj\Debug\netcoreapp2.2\ShoppingApplication.RazorTargetAssemblyInfo.cache
+E:\AspNetCoreProjects\ShoppingApplication\obj\Debug\netcoreapp2.2\ShoppingApplication.dll
+E:\AspNetCoreProjects\ShoppingApplication\obj\Debug\netcoreapp2.2\ShoppingApplication.pdb
+E:\AspNetCoreProjects\ShoppingApplication\obj\Debug\netcoreapp2.2\ShoppingApplication.csprojAssemblyReference.cache
